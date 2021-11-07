@@ -1,4 +1,10 @@
-# Friday Night Funkin
+# PoyoEngine
+
+This is the source code for PoyoEngine v2.0, A simple engine created by total newbies in coding
+This engine is meant to be close as **fuck** to the original game while adding changes for the greater good,
+(Input System) (Down and Middle Scroll). Along with a Optimized mode. Providing Low-End Assets for PC and Android.
+
+#ORIGINAL DESCRIPTION
 
 This is the repository for Friday Night Funkin, a game originally made for Ludum Dare 47 "Stuck In a Loop".
 
